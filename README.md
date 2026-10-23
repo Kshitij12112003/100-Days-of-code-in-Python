@@ -194,6 +194,4 @@ Consistency, practice, and problem-solving are the keys to becoming a better pro
 
 100 Days. 100 Projects. One Step Closer to Mastering Python. 🚀
 
-⸻
 
-Let’s Code! 🐍
